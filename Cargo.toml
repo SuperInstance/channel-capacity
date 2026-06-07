@@ -1,0 +1,9 @@
+[package]
+name = "channel-capacity"
+version = "0.1.0"
+edition = "2021"
+description = "Shannon channel capacity, discrete memoryless channels (BSC, BEC, Z-channel), mutual information, capacity with cost constraints, and water-filling for parallel Gaussian channels"
+license = "MIT"
+repository = "https://github.com/SuperInstance/channel-capacity"
+keywords = ["channel-capacity", "mutual-information", "shannon", "information-theory", "water-filling"]
+categories = ["algorithms", "science", "mathematics"]
